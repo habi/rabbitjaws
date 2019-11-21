@@ -1,0 +1,2 @@
+Quick display [notebook](https://jupyter.org/) to show what kind of (different) scans were made by Sebastien.
+We're sharing the MIPs and middle slices with the collaborators and give access to the raw projections for a project.
